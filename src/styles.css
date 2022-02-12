@@ -1,0 +1,34 @@
+.banner{
+    background-color: rgb(138, 122, 101);
+    height: 10vh;
+}
+
+.abajo{
+    background-color: rgb(138, 122, 101);
+    height: 4vh;
+}
+
+.mitad{
+    background-color: blue;
+    height: 100vh;
+}
+
+.sidebar{
+    background-color: rgb(230, 111, 0);
+}
+.maincont{
+    background-color: chartreuse;
+   
+}
+.top-menu{
+    background-color: rgb(185, 181, 181);
+
+}
+
+.photo-odd{
+    background-color: indianred;
+}
+
+.photo-even{
+    background-color:lightblue;
+}
