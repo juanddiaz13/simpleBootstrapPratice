@@ -18,7 +18,10 @@
 }
 .maincont{
     background-color: chartreuse;
-    height: 21.1vw;
+    height: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
    
 }
 .top-menu{
